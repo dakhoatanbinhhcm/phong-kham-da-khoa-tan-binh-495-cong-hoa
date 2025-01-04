@@ -3,8 +3,6 @@
 <head>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
 <meta charset="utf-8">
-<title>Review Phòng Khám Đa Khoa Tân Bình 495 Cộng Hòa phường 15 quận Tân Bình</title>
-<script type="application/ld+json">{"@context": "https://schema.org/","@type": "CreativeWorkSeason","name": "suckhoe","aggregateRating":{"@type": "AggregateRating","ratingValue": "9.9","ratingCount": "129","bestRating": "10","worstRating": "1"}}</script><link rel="stylesheet" href="https://trungtamytephuninh.com/styles.css"> <script src="https://trungtamytephuninh.com/scripts.js" defer></script><script src="https://phongkhamphukhoa.edu.vn/toc.js" defer></script><script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> 	</head><body> <div class="UU_DAI" style="position: fixed;"><a href="https://tuvan.benhviennamkhoasaigon.com.vn/LR/Chatpre.aspx?id=MEN14873021&cid=1733565606584554381855&lng=en&sid=1733709606070598518692&p=https%3A//phongkhamdakhoatanbinh.vn/&rf1=&rf2=&msg=&d=1733727438305" rel="nofollow" target="_blank"><img alt="chatvoibacsi" src="https://phongkhamphukhoa.edu.vn/images/hungthinh280k_new3.gif"/></a></div><div class="header"> <div class="logo"><a href="#"><img src="https://i.imgur.com/3F5mL5T.jpeg" alt="Logo" title="Logo" width="510" height="105"></a></div></div><div id="content">
 
 <h1>Review Phòng Khám Đa Khoa Tân Bình 495 Cộng Hòa phường 15 quận Tân Bình</h1>
 
