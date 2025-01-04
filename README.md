@@ -216,30 +216,3 @@
 
 <div class="footer">Bản quyền thuộc về Phòng Khám Đa Khoa Tân Bình</div>
 
-<div class="desktop-contact-wp">
-        <div class="social-wp">
-            <ul class="list-item">
-                <li>
-                    <a href="https://tuvan.benhviennamkhoasaigon.com.vn/LR/Chatpre.aspx?id=MEN14873021&cid=1733565606584554381855&lng=en&sid=1733709606070598518692&p=https%3A//phongkhamdakhoatanbinh.vn/&rf1=&rf2=&msg=&d=1733727438305" rel="nofollow noopener" target="_blank" title="Chat Zalo" class="messenger-chat">
-                       <img alt="Chat Zalo" src="https://phongkhamphukhoa.edu.vn/images/zalo.png" style="height:50px; width:50px" />
-                    </a>
-                </li>
-                <li>
-                    <a href="https://tuvan.benhviennamkhoasaigon.com.vn/LR/Chatpre.aspx?id=MEN14873021&cid=1733565606584554381855&lng=en&sid=1733709606070598518692&p=https%3A//phongkhamdakhoatanbinh.vn/&rf1=&rf2=&msg=&d=1733727438305" rel="nofollow noopener" target="_blank" title="Chat Facebook" class="messenger-zalo">
-                      <img alt="Chat Facebook" src="https://phongkhamphukhoa.edu.vn/images/icon-mess.png" style="height:50px; width:50px" />
-                    </a>
-                </li>
-            </ul>
-        </div>
-    </div>
-    
-    <div class="action-wp">
-        <a href="https://tuvan.benhviennamkhoasaigon.com.vn/LR/Chatpre.aspx?id=MEN14873021&cid=1733565606584554381855&lng=en&sid=1733709606070598518692&p=https%3A//phongkhamdakhoatanbinh.vn/&rf1=&rf2=&msg=&d=1733727438305" rel="nofollow noopener" target="_blank" title="Chat với bác sĩ">
-            <img alt="Chat với bác sĩ" src="https://phongkhamphukhoa.edu.vn/images/rchat.gif" style="height:50px; width:230px" />
-        </a>
-        <a href="tel:0282206333" rel="nofollow noopener" title="Hotline">
-           <img alt="Hotline" src="https://phongkhamphukhoa.edu.vn/images/dienthoai.gif" style="height:50px; width:230px" />
-        </a>
-    </div>
-</body>
-</html>
